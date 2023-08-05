@@ -10,14 +10,16 @@ The "Shopping Cart" Lab
   - This was happenning because the student was using different local storage keys to save data and retrieve the data.
  
 
-- Have best practices been followed?
+
+
+##Have best practices been followed?
 - Mostly yes however the student should try to assign values using const instead of let because it clearlky shoiws that the valkue can not be changed or reasigned and the advantage of doing this is that const variables can not be redeclared within the same scope with prevents confusion on bigger projects.
 
 
-- What would you recommend they do to extend this?
+##What would you recommend they do to extend this?
 - The student can add alert messages to see when a product has been successfuly saved to the cart so that they dont see the error at the end if it happens again.
 - The stident can add a function that chexks if there is products in the local storage and load them back onto the cart storage when you run the code.
 
 
-- Are you able to identify any issues with the codebase?
+##Are you able to identify any issues with the codebase?
 - The name of the array with cart instances on line 14 was this.items however the student was trying to set the instances to this.item
