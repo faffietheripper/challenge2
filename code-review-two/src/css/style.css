@@ -1,0 +1,37 @@
+/* TODO: Make it awesome */
+
+title {
+  padding-right: 100px;
+}
+header {
+  height: 100px;
+  padding: 50px;
+  background-color: black;
+  color: white;
+  display: flex;
+  text-decoration: none;
+}
+
+main header {
+  height: 80px;
+  padding: 50px;
+  background-color: blue;
+  color: white;
+  font-size: 40px;
+}
+
+.copy {
+  padding-top: 30px;
+}
+
+.deck {
+  padding: 100px;
+  text-align: center;
+}
+
+footer {
+  background-color: red;
+  height: 100px;
+  text-align: center;
+  padding-top: 20px;
+}

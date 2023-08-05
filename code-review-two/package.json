@@ -1,0 +1,10 @@
+{
+  "name": "code-review-two",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve src/"
+  },
+  "author": "",
+  "license": "ISC"
+}
